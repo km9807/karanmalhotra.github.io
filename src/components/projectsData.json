@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Q-Trip",
+    "image": "./images/projects/p1.png",
+    "stack": ["html", "css", "javascript", "bootstrap"],
+    "liveLink": "https://karan9807-qtrip-dynamic.netlify.app/"
+  },
+  {
+    "name": "Q-Kart",
+    "image": "./images/projects/p2.png",
+    "stack": ["javascript", "react", "node", "mongodb", "express"],
+    "liveLink": "https://qkart-frontend-karanmalhotra.netlify.app/"
+  },
+  {
+    "name": "X-Flix",
+    "image": "./images/projects/p3.png",
+    "stack": ["javascript", "react", "node", "mongodb", "express"],
+    "liveLink": "https://xflix-km9807.netlify.app/"
+  },
+  {
+    "name": "X-Board",
+    "image": "./images/projects/p4.png",
+    "stack": ["html", "css", "javascript", "bootstrap"],
+    "liveLink": "https://xboard-karan.netlify.app/"
+  },
+  {
+    "name": "Admin-UI",
+    "image": "./images/projects/p5.png",
+    "stack": ["css", "react"],
+    "gitHubLink": "https://github.com/km9807/Admin-UI-Geektrust",
+    "liveLink": "https://admin-ui-km.netlify.app/"
+  }
+]
