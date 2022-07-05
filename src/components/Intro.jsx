@@ -26,10 +26,12 @@ const IntroPara = Styled(RightContainer)`
     }
     .profileImg {
         margin:20px;
+        margin-top:80px;
+        padding-bottom:0rem;
         border-radius: 50%;
         border: 20px solid #5918df;
-        min-width: 200px;
-        max-width: 400px;
+        max-width: 300px;
+        height:280px;
         box-shadow: 0px 0px 30px 0px #5918df88,0px 0px 30px 0px #5918df88 inset;
         animation-duration: 2s;
         animation-name: slideIn;

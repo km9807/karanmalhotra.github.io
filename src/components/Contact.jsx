@@ -18,7 +18,7 @@ const StyledFindMe = Styled(RightContainer)`
         .heading{
             color: white;
             font-size: 45px;
-            margin-bottom:20px;
+            margin-bottom:30px;
         }
         .contactGrid{
             width: 900px;
@@ -85,7 +85,7 @@ function Contact() {
                                 rel="noopener noreferrer"
                             >
                                 <Icon src="./images/icons/gmail.svg" />
-                                karanmalhotra9807@gmail.com
+                                Gmail
                             </a>
                         </div>
                     </div>
